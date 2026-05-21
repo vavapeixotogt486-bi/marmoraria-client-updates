@@ -1,12 +1,12 @@
 {
-  "version": "0.1",
+  "version": "0.2",
   "releaseDate": "21/05/2026",
   "status": "Nova atualizacao disponivel",
-  "packageUrl": "Client-update-v0.1.zip",
+  "packageUrl": "Client-update-v0.2.zip",
   "notes": [
-    "Atualizador online pelo launcher",
-    "Backup automatico antes da atualizacao",
-    "Dark mode premium",
-    "Correcao da folha do orcamento no modo escuro"
+    "Novo modulo de contrato presetado",
+    "Assinatura da contratada agora pode ser editada",
+    "Contrato com cliente, endereco, servico, valor e observacoes",
+    "Preview em duas paginas com impressao em PDF"
   ]
 }
