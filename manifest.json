@@ -1,12 +1,12 @@
 {
-  "version": "2.5.0",
-  "releaseDate": "20/05/2026",
+  "version": "0.1",
+  "releaseDate": "21/05/2026",
   "status": "Nova atualizacao disponivel",
-  "packageUrl": "Client-update-v2.5.0.zip",
+  "packageUrl": "Client-update-v0.1.zip",
   "notes": [
     "Atualizador online pelo launcher",
     "Backup automatico antes da atualizacao",
     "Dark mode premium",
-    "Melhorias no financeiro e no fluxo do client"
+    "Correcao da folha do orcamento no modo escuro"
   ]
 }
